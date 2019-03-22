@@ -1,0 +1,3 @@
+Raju|21|8000.0|Clerk
+Suraj|32|25000.0|Programmer
+Mohan|44|80000.0|Manager

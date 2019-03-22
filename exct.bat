@@ -1,0 +1,4 @@
+notepad
+explorer
+calc
+mspaint
